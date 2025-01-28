@@ -30,18 +30,18 @@
 <h1>📊 GitHub Stats:</h1>
     <p>
       <a></a>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
       <br>
       <a></a>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
       <a></a>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
       <br>
       <a></a>
     </p>
 
   <h2>🏆 GitHub Trophies</h2>
-  <p align=center>
+  <p>
       <img src="https://github-profile-trophy.vercel.app/?username=AERI078&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
 
