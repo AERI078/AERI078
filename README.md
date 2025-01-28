@@ -1,6 +1,7 @@
 # 💫 Hello, World!
 <br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjp.pinterest.com%2Fpin%2F304626362308076532%2F&psig=AOvVaw1tzsdome5cl_G-YFqdZ6Jk&ust=1738173864331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLiq-7WAmYsDFQAAAAAdAAAAABAx">
+<img height="300" width="500" align="right" src="https://media.giphy.com/media/kkSkgexb9xBoQ/giphy.gif?cid=ecf05e47sdd54wf39vhvywo4oexpvmlowvy0my4j00jj0b5f&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Funny GIF">
+
 <p align=left>
   <p>I am Arushi and . . .<br>
   <p>🔭 I’m currently pursuing B.Tech- Computer Science and Engineering<br> </p>
@@ -9,7 +10,7 @@
   <p>🌱 I’m currently learning PowerBI and Data Visualization<br></p>
   <p>⚡ Fun fact! : I had never programmed even once before I got admission in my university</p>
 </p>
-
+<br>
 
 <h1>💻 Tech Stack </h1>
   <p align=center>
@@ -27,15 +28,15 @@
   </p>
 
 <h1>📊 GitHub Stats:</h1>
-    <p align=center>
+    <p>
       <a></a>
-      <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
       <br>
       <a></a>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
       <a></a>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
       <a></a>
     </p>
 
