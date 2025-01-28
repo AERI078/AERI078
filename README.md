@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Arushi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>💻 Tech Stack:</h1>
+  <p>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeri078" alt="aeri078" /></a> </p>
+<h1>📊 GitHub Stats:</h1>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arushi-467b67294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushi-467b67294" height="30" width="40" /></a>
-<a href="https://kaggle.com/aeri078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aeri078" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aeri078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aeri078" height="30" width="40" /></a>
-</p>
+  <h2>🏆 GitHub Trophies</h2>
+  <p>
+      <img src="https://github-profile-trophy.vercel.app/?username=AERI078&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <h3>🔝 Top Contributed Repo</h3>
+  <p>
+      <img src="https://github-contributor-stats.vercel.app/api?username=AERI078&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeri078&show_icons=true&locale=en&layout=compact" alt="aeri078" /></p>
+  <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeri078&show_icons=true&locale=en" alt="aeri078" /></p>
+  <p>
+      <a href="https://visitcount.itsvg.in" target="_blank">
+          <img src="https://visitcount.itsvg.in/api?id=AERI078&icon=0&color=0" alt="Profile Views">
+      </a>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeri078&" alt="aeri078" /></p>
+  <h3>Connect with me:</h3>
+  <p>
+      <a href="https://linkedin.com/in/username" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
+      </a>
+      <a href="https://kaggle.com/username" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30">
+      </a>
+      <a href="https://www.leetcode.com/username" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30">
+      </a>
+  </p>
+
+
