@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AERI078&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 **AERI078/AERI078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
