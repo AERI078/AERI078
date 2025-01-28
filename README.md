@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hello, World! <br>
+# 💫 Hello, World!
+<br>
+<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjp.pinterest.com%2Fpin%2F304626362308076532%2F&psig=AOvVaw1tzsdome5cl_G-YFqdZ6Jk&ust=1738173864331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLiq-7WAmYsDFQAAAAAdAAAAABAx">
+<p align=left>
   <p>I am Arushi and . . .<br>
   <p>🔭 I’m currently pursuing B.Tech- Computer Science and Engineering<br> </p>
   <p>👯 I’m looking to collaborate on fun Data Science projects<br></p>
@@ -9,8 +11,8 @@ Hello, World! <br>
 </p>
 
 
-<h1>💻 Tech Stack:</h1>
-  <p>
+<h1>💻 Tech Stack </h1>
+  <p align=center>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -25,34 +27,38 @@ Hello, World! <br>
   </p>
 
 <h1>📊 GitHub Stats:</h1>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <p align=center>
+      <a></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <br>
+      <a></a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AERI078&theme=city_lights&hide_border=false" alt="GitHub Streak Stats">
+      <a></a>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+      <a></a>
     </p>
 
   <h2>🏆 GitHub Trophies</h2>
-  <p>
+  <p align=center>
       <img src="https://github-profile-trophy.vercel.app/?username=AERI078&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
 
   <h3>🔝 Top Contributed Repo</h3>
-  <p>
+  <p align=center>
       <img src="https://github-contributor-stats.vercel.app/api?username=AERI078&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
   </p>
 
   <hr>
 
-  <p>
+  <p align=center>
       <a href="https://visitcount.itsvg.in" target="_blank">
           <img src="https://visitcount.itsvg.in/api?id=AERI078&icon=0&color=0" alt="Profile Views">
       </a>
   </p>
 
   <h3>Connect with me:</h3>
-  <p>
+  <p align=center>
       <a href="https://linkedin.com/in/username" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
       </a>
