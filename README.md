@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </p>
 
-<h1>📊 GitHub Stats:</h1>
+<h1>📊 GitHub Stats </h1>
     <p>
       <a></a>
       <img src="https://github-readme-stats.vercel.app/api?username=AERI078&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
@@ -40,7 +40,7 @@
       <a></a>
     </p>
 
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>🏆 GitHub Trophies </h2>
   <p>
       <img src="https://github-profile-trophy.vercel.app/?username=AERI078&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
@@ -58,7 +58,7 @@
       </a>
   </p>
 
-  <h3>Connect with me:</h3>
+  <h3> Connect with me </h3>
   <p align=center>
       <a href="https://linkedin.com/in/username" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
