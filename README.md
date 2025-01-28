@@ -1,3 +1,14 @@
+# 💫 About Me:
+Hello, World! <br>
+  <p>I am Arushi and . . .<br>
+  <p>🔭 I’m currently pursuing B.Tech- Computer Science and Engineering<br> </p>
+  <p>👯 I’m looking to collaborate on fun Data Science projects<br></p>
+  <p>🤝 I’m looking for help with Java programming<br></p>
+  <p>🌱 I’m currently learning PowerBI and Data Visualization<br></p>
+  <p>⚡ Fun fact! : I had never programmed even once before I got admission in my university</p>
+</p>
+
+
 <h1>💻 Tech Stack:</h1>
   <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
