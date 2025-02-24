@@ -4,7 +4,7 @@
 
 <p align=left>
   <p>I am Arushi and . . .<br>
-  <p>🔭 I’m currently pursuing B.Tech- Computer Science and Engineering<br> </p>
+  <p>🔭 I’m a second year student pursuing Computer Science and Engineering<br> </p>
   <p>👯 I’m looking to collaborate on fun Data Science projects<br></p>
   <p>🤝 I’m looking for help with Java programming<br></p>
   <p>🌱 I’m currently learning PowerBI and Data Visualization<br></p>
