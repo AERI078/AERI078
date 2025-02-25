@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-    <img src="https://tenor.com/view/avatar-the-last-airbender-nickelodeon-avatar-the-last-airbender-toons-gif-6459679459820784108" alt="Custom Header">
+    <img src="https://media.giphy.com/media/iA6uDPHzvUVNK/giphy.gif?cid=ecf05e478tewwf7y36k6r3ve1q5cobcnmibn065bsdw6tznu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Custom Header" width=900 height=300>
 </p>
 
 <h1 align="center">
@@ -18,8 +18,7 @@
 - 🔭 I’m a **2nd-year Computer Science & Engineering student**  
 - 👯 I’m looking to collaborate on **fun Data Science projects**  
 - 🌱 Currently learning **Power BI & Data Visualization**  
-- 🎯 **Goal:** To become proficient in **Data Science & AI**  
-- ⚡ Fun Fact: I love **anime & problem-solving**!  
+- 🎯 **Goal:** To become proficient in **Data Science & AI**
 
 ---
 
