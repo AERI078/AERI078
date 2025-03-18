@@ -17,9 +17,7 @@
 ## **💡 About Me**
 - 🔭 I’m a **2nd-year Computer Science & Engineering student**  
 - 👯 I’m looking to collaborate on **fun Data Science projects**  
-- 🌱 Currently learning **Power BI & Data Visualization**  
-- 🎯 **Goal:** To become proficient in **Data Science & AI**
-
+- 🌱 Currently learning **Data Visualization and Statistics!**  
 ---
 
 ## **💻 Tech Stack**
