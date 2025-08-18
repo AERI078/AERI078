@@ -14,7 +14,7 @@
 ## **Hello, World! 🌍**
 My name is Arushi, and I am a Computer Science undergrad interested in all things data! 
 - Exploring topics like Deep Learning, NLP and MLOps
-- Learning by doing — check out my repos to see how I experiment with ideas
+- Learning by doing- check out my repos to see how I experiment with ideas
 
 ---
 
