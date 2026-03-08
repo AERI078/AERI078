@@ -20,9 +20,8 @@
 me = {
     "degree"    : "B.Tech CSE, specialization in Data Science & ML",
     "year"      : "3rd year",
-    "currently" : "building AI projects · making them industry-grade",
-    "goal"      : "placement-ready portfolio, one project at a time",
-    "vibe"      : ["dark mode always", "coffee > sleep", "obsessive about clean code"],
+    "currently" : "building fun data projects",
+    "vibe"      : ["coffee > sleep", "obsessive about clean code"],
 }
 ```
 
