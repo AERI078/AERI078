@@ -1,8 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-<!-- Replace this with your actual photo -->
-<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/48b247f1-bdf9-4f7a-87d7-e57d2350a112" />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/e15c158f-1f58-4bb4-8873-2c709c6352fb" />
+
 
 <br/>
 
