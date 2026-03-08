@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="left">
+<div align="center">
 
 <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/e15c158f-1f58-4bb4-8873-2c709c6352fb" />
 
