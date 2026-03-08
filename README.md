@@ -18,10 +18,12 @@
 
 ```python
 me = {
-    "degree"    : "B.Tech CSE, specialization in Data Science & ML",
-    "year"      : "3rd year",
-    "currently" : "building fun data projects",
-    "vibe"      : ["coffee > sleep", "obsessive about clean code"],
+  "role": "data science student",
+  "education": "b.tech-cse (data science and ml)",
+  "areas_of_interest": ["statistics", "machine learning", "ethical AI"],
+  "current_focus": ["building data projects", "studying deep learning", "strengthening fundamentals in cloud computing"],
+  "looking_to_collaborate_on": ["data science projects", "open datasets"],
+  "long_term_goal": "building reliable machine learning systems"
 }
 ```
 
