@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/e15c158f-1f58-4bb4-8873-2c709c6352fb" />
 
@@ -53,7 +53,7 @@ Right now I'm focused on taking my projects from *"it works on my machine"* to *
 
 ## ◈ tech stack
 
-<div align="center">
+<div align="left">
 
 **languages**
 
@@ -97,7 +97,7 @@ Right now I'm focused on taking my projects from *"it works on my machine"* to *
 
 <br/>
 
-*currently building · always learning · one dark mode at a time*
+*currently building · always learning · one bug at a time*
 
 </div>
 
