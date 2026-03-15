@@ -93,7 +93,7 @@ Right now I'm focused on taking my projects from *"it works on my machine"* to *
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=888888)](https://www.linkedin.com/in/arushi-467b67294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=firefox&logoColor=888888)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=firefox&logoColor=888888)](https://aeri078.github.io/)
 
 <br/>
 
